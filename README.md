@@ -1,2 +1,1 @@
-# Case-Converter.js
-hyperskill.org project
+# Case-Converter https://hyperskill.org/projects/193
